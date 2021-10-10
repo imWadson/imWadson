@@ -1,4 +1,4 @@
-## Olá, me chamo Wadson Nilton, estudante e entusiasta de Desenvolvemento Web!
+## Olá, me chamo Wadson Nilton, entusiasta de Desenvolvemento Web!
 <div align="center">
   <a href="https://github.com/imWadson">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=imWadson&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
