@@ -1,4 +1,4 @@
-## Hi, There!! :wave:
+## Hi, There!! :coffee:
  Me chamo Wadson Nilton, sou um grande amante de tecnologia. Atualmente estudo Gestão de TI na Unifacid - Wyden.<br>
  Extremamente apaixonado por café e jogos FPS ._.
  <br>
