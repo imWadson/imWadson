@@ -25,7 +25,6 @@
   <a href = "niiltonsk8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f09600?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=www.linkedin.com/in/imWadson"/></a>
   <a href = "niiltonsk8@gmail.com"><img src="https://img.shields.io/badge/-linkedin-f09600?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=www.linkedin.com/in/imWadson"/></a>
  
-  ![Snake animation](https://github.com/imWadson/imWadson/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
