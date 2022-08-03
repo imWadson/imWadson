@@ -11,7 +11,7 @@
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wad-iex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Wad-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <img align="center" alt="Wad-iex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
   <img align="center" alt="Wad-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Wad-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
