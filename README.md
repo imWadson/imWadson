@@ -23,7 +23,7 @@
  
 <div> 
   <a href = "niiltonsk8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f09600?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=www.linkedin.com/in/imWadson"/></a>
-  <a href = "niiltonsk8@gmail.com"><img src="https://img.shields.io/badge/-linkedin-f09600?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=www.linkedin.com/in/imWadson"/></a>
+  <a href = "https://www.linkedin.com/in/imwadson/"><img src="https://img.shields.io/badge/-linkedin-f09600?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=www.linkedin.com/in/imWadson"/></a>
  
  
 </div>
