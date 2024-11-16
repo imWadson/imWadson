@@ -1,6 +1,10 @@
 ## Hi, There!! :coffee:
- Me chamo Wadson Nilton, sou um grande amante de tecnologia. Atualmente estudo Gestão de TI na Unifacid - Wyden.<br>
- Extremamente apaixonado por café e jogos FPS ._.
+ I’m Wadson Nilton, a tech enthusiast fueled by coffee and passion for FPS games. 🎮☕
+💻 Current work: Data Analyst working with Python, Power BI, MongoDB (NoSQL), SQL Server, and PostgreSQL.
+📚 Learning: Diving deep into Kotlin to create awesome mobile apps.
+🎓 Student life: IT Management @ Unifacid - Wyden.
+
+Let’s code, build, and have fun along the way! 🚀
  <br>
  <br>
  <br>
