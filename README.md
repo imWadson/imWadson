@@ -1,7 +1,7 @@
 ## Hi, There!! :coffee:
  I’m Wadson Nilton, a tech enthusiast fueled by coffee and passion for FPS games. 🎮☕<br>
 💻 Current work: Data Analyst working with Python, Power BI, MongoDB (NoSQL), SQL Server, and PostgreSQL.<br>
-📚 Learning: Diving deep into Kotlin to create awesome mobile apps.<br>
+📚 Learning: Diving deep into Flutter to create awesome mobile apps.<br>
 🎓 Student life: IT Management @ Unifacid - Wyden.<br>
 
 Let’s code, build, and have fun along the way! 🚀
@@ -15,7 +15,7 @@ Let’s code, build, and have fun along the way! 🚀
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wad-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img align="center" alt="Wad-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Wad-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Wad-flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
    <img align="center" alt="Wad-dj" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//django/django-plain.svg">
