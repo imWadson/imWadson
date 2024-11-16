@@ -1,8 +1,8 @@
 ## Hi, There!! :coffee:
- I’m Wadson Nilton, a tech enthusiast fueled by coffee and passion for FPS games. 🎮☕
-💻 Current work: Data Analyst working with Python, Power BI, MongoDB (NoSQL), SQL Server, and PostgreSQL.
-📚 Learning: Diving deep into Kotlin to create awesome mobile apps.
-🎓 Student life: IT Management @ Unifacid - Wyden.
+ I’m Wadson Nilton, a tech enthusiast fueled by coffee and passion for FPS games. 🎮☕<br>
+💻 Current work: Data Analyst working with Python, Power BI, MongoDB (NoSQL), SQL Server, and PostgreSQL.<br>
+📚 Learning: Diving deep into Kotlin to create awesome mobile apps.<br>
+🎓 Student life: IT Management @ Unifacid - Wyden.<br>
 
 Let’s code, build, and have fun along the way! 🚀
  <br>
