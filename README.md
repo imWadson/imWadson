@@ -15,8 +15,7 @@ Let’s code, build, and have fun along the way! 🚀
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wad-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="center" alt="Wad-iex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
+  <img align="center" alt="Wad-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/kotlin-plain.svg">
   <img align="center" alt="Wad-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Wad-flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
    <img align="center" alt="Wad-dj" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//django/django-plain.svg">
