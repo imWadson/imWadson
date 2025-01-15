@@ -15,9 +15,9 @@ Let’s code, build, and have fun along the way! 🚀
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wad-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="Wad-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+   <img align="center" alt="Wad-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="Wad-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Wad-flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
    <img align="center" alt="Wad-dj" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//django/django-plain.svg">
 </div>
   
