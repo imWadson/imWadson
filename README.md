@@ -10,7 +10,6 @@ Let’s code, build, and have fun along the way! 🚀
  <br>
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imWadson&show_icons=true&theme=great-gatsby" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=imWadson&theme=great-gatsby&hide_border=true" width = 400>
   
   
 </div>
