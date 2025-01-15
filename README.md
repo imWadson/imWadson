@@ -21,13 +21,4 @@ Let’s code, build, and have fun along the way! 🚀
    <img align="center" alt="Wad-dj" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//django/django-plain.svg">
 </div>
   
-  ##
- 
-<div> 
-  <a href = "niiltonsk8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f09600?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=www.linkedin.com/in/imWadson"/></a>
-  <a href = "https://www.linkedin.com/in/imwadson/"><img src="https://img.shields.io/badge/-linkedin-f09600?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=www.linkedin.com/in/imWadson"/></a>
- 
- 
-</div>
-
 
